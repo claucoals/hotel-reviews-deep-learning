@@ -1,7 +1,7 @@
 # Hotel Reviews Deep Learning
 
 ## Description  
-This repository contains the solution to the **Machine Learning, Artificial Neural Networks and Deep Learning exam** (Exam session: 19 June 2025, University of Milano-Bicocca).  
+This repository contains the solution to the **Machine Learning, Artificial Neural Networks and Deep Learning exam** (Exam session: 19 June 2025, University of Pavia, University of Milan "La Statale" and University of Milano-Bicocca).  
 The task consists of designing and implementing a **deep neural network** able to predict both the **review type** (good/bad) and the **review score** (0–10) from hotel reviews.  
 
 ## Contents  
@@ -31,4 +31,4 @@ jupyter notebook carboni_535421_dl_exam.ipynb
 ---
 
 ## License  
-For educational use only — part of the academic coursework at the University of Milano-Bicocca.  
+For educational use only — part of the academic coursework at university.  
